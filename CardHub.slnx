@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CardHub.API/CardHub.API.csproj" />
+  <Project Path="CardHub.Client/CardHub.Client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
