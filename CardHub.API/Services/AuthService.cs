@@ -9,7 +9,7 @@ using System.Text;
 
 namespace CardHub.API.Services
 {
-    public class AuthService
+    public class AuthService : IAuthService
     {
         private readonly AppDbContext _context;
         private readonly IConfiguration _configuration;
